@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673730053 source:c:\projects\c++\c++ codeblocks\main.cpp
+	<iostream>
+	"tp.h"
+	<string>
+
+1673730377 c:\projects\c++\c++ codeblocks\tp.h
+	<iostream>
+	<string>
+
